@@ -29,4 +29,6 @@ Here are some ideas to get you started:
 
 ## GitHub States
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damariscampos26&theme=synthwave&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damariscampos26&theme=bear&background=000&bg_color=000&border_color=30A3DC&icon_color=ec3b87&show_icons=true&hide_title=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=damariscampos26&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
