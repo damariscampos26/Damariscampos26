@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/dâmaris-campos-b95914254/)
-[![LinkedIn](https://img.shields.io/badge/-instagram-000?style=for-the-badge&logo=instagram&logoColor)](https://www.instagram.com/_damariscampos/) [![GitHUb](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHUb&logoColor)](https://github.com/damariscampos26)
+[![LinkedIn](https://img.shields.io/badge/-instagram-000?style=for-the-badge&logo=instagram&logoColor)](https://www.instagram.com/_damariscampos/)
 
 ## Habilidades
 
